@@ -1,4 +1,4 @@
-### Hi there 👋
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=5tronciy&show_icons=true)
 
 <!--
 **5tronciy/5tronciy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
